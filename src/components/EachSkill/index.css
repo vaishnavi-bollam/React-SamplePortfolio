@@ -1,0 +1,10 @@
+.each-skill-bg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.each-skill-image{
+    height: 100px;
+    width: 100px;
+}
